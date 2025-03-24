@@ -14,7 +14,7 @@ import {
 } from './components';
 import './App.css';
 
-const baseUrl = 'https://users-crud-api-production-9c59.up.railway.app/api/v1/users/';
+const baseUrl = 'https://users-crud-api-production-9c59.up.railway.app/api/v1';
 
 function App() {
 	const [isOpenFormModal, setIsOpenFormModal] = useState(false);
@@ -78,7 +78,7 @@ function App() {
 			</main>
 			<footer className="footer">
 				<a
-					href="https://github.com/tonatiujsanchez/user-crud-app"
+					href="https://github.com/CarlosQuintero8/users-crud-app"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="footer__link"
