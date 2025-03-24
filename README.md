@@ -3,7 +3,7 @@
 Proyecto desarrollado en [React](https://reactjs.org) que interactua con una API de Users, a través de todos los métodos http (GET, POST, PATCH y DELETE).
 El propósito de esta aplicación es LEER, CREAR, ACTUALIZAR y ELIMINAR usuarios como practica de un CRUD.
 
-[App de CRUD de Usuarios](/public/screenshotweb.webp)
+![App de CRUD de Usuarios](/public/screenshotweb.webp)
 
 ## Características principales
 
