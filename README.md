@@ -1,9 +1,9 @@
 # CRUD de Usuarios <img src="https://img.icons8.com/color/32/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/32/000000/react-native.png"/>
 
-Proyecto desarrollado en [React](https://reactjs.org) que interactuar con una API de Users, a través de todos los métodos http (GET, POST, PATCH y DELETE).
+Proyecto desarrollado en [React](https://reactjs.org) que interactua con una API de Users, a través de todos los métodos http (GET, POST, PATCH y DELETE).
 El propósito de esta aplicación es LEER, CREAR, ACTUALIZAR y ELIMINAR usuarios como practica de un CRUD.
 
-[![App de CRUD de Usuarios](/public/screenshotweb.webp)]
+[App de CRUD de Usuarios](/public/screenshotweb.webp)
 
 ## Características principales
 
